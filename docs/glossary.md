@@ -91,7 +91,7 @@
 ### descending index 降序索引
 ### dirty page 脏页
 ### dirty read 脏读
-### disk-based 以磁盘为存储介质
+### disk-based 基于磁盘存储
 ### disk-bound 磁盘带宽
 ### DML 
 ### document id  全文索引编号
